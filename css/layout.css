@@ -133,7 +133,7 @@ header:hover {
 
 #gnb:hover::after {
   height: 200px;
-  border-bottom: 1px solid #f4f4f42b;
+  border-bottom: 1px solid #865f5f2b;
 }
 
 /* 아이콘 */
